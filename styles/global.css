@@ -2,12 +2,13 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 body {
   width: 1100px;
   margin: 0 auto;
-  font-family: Raleway, sans-serif;
+  font-family: Raleway, Arial, sans-serif;
 }
 
 h1,
